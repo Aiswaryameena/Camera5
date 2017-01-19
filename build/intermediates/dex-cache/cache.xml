@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_bff044572b5a28ec5179a74b5fce3ca33656bdd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_053d431190d44f31891d4ae327a19e243234cc8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5a6a8394f695cc35764fa1040f91acde59aa88a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_79e56c236cd072d38f69bf40d3598aefeb6e1696\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e323919bb69147dddc9c886a884b61db58f872f3">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_50f960ce19e0de846896c6d6c2b877309dfc05d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_7ed39a2424efea2f95cc0e72b11c05bdd5499160\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_deb3e20d812c0bce37cee49a67a47c07fe0ff130\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb1764bf91eabefa1fb8c100dd789da0c99e126">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5589e49a1cf6437f2f7f7204a9bd211cc0a8be45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.theartofdev.edmodo\android-image-cropper\1.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce7196ca20de54117babc8b7f94bdee70a25c0f5">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.theartofdev.edmodo-android-image-cropper-1.1.1_272de204c703f5fdb887814759abd86549e8725f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_fd187e7151ea838e2bfa289a8884f15120cfcb11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_798841d629b079fbe26f5f20630872fceb94bc92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1b9a757b2850e6d779f1a2d8eca4aeb9b22a36c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.4.0_4acbbfeec682b235779f6680679cd498d648a8ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_61cc19651f946059722326253a33ca6b89472d0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_3d7910b0580727e3801d668774c1c34d2d936ea0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_bc6f336c3c816e6610d6b7deadd47c463828e6d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_bdfb5294d0106ba09e480104f60fbf9048c8094e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_58f69bf3c5696cc2d5d9078c455313a6effd4c25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\optisol2\AndroidStudioProjects\Camera5\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d0357b0eb99010eac39eda0216109816e2fcbe29\classes.dex" />
+    </item>
+
+</items>
